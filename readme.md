@@ -15,9 +15,9 @@
 * `data.sql`：測試用的模擬資料 (DML)，包含預設的分類、模擬使用者 (小華、小明與管理員)、商品資料、對話紀錄與一筆交換請求，方便快速建置測試環境。
 
 ## 系統關聯圖 (ER Model)
-https://github.com/Chickenedbee/SecondHandExchange-DB/blob/main/%E5%9C%96%E7%89%871.png
+![image](https://github.com/Chickenedbee/SecondHandExchange-DB/blob/main/%E5%9C%96%E7%89%871.png)
 
-https://github.com/Chickenedbee/SecondHandExchange-DB/blob/main/%E5%9C%96%E7%89%872.png
+![image](https://github.com/Chickenedbee/SecondHandExchange-DB/blob/main/%E5%9C%96%E7%89%872.png)
 
 ## 建置與使用方式
 
